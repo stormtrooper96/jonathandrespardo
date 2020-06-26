@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jonathandrespardo/static/css/main.45ec9431.chunk.css",
-    "main.js": "/jonathandrespardo/static/js/main.9a612792.chunk.js",
-    "main.js.map": "/jonathandrespardo/static/js/main.9a612792.chunk.js.map",
+    "main.js": "/jonathandrespardo/static/js/main.aeda8ea2.chunk.js",
+    "main.js.map": "/jonathandrespardo/static/js/main.aeda8ea2.chunk.js.map",
     "runtime-main.js": "/jonathandrespardo/static/js/runtime-main.94287de5.js",
     "runtime-main.js.map": "/jonathandrespardo/static/js/runtime-main.94287de5.js.map",
     "static/css/2.2730ce90.chunk.css": "/jonathandrespardo/static/css/2.2730ce90.chunk.css",
     "static/js/2.5737decf.chunk.js": "/jonathandrespardo/static/js/2.5737decf.chunk.js",
     "static/js/2.5737decf.chunk.js.map": "/jonathandrespardo/static/js/2.5737decf.chunk.js.map",
     "index.html": "/jonathandrespardo/index.html",
-    "precache-manifest.ed29b1af262379042b5d0103019d4ae7.js": "/jonathandrespardo/precache-manifest.ed29b1af262379042b5d0103019d4ae7.js",
+    "precache-manifest.86799a7d84f7d30f9995d7be5da1083e.js": "/jonathandrespardo/precache-manifest.86799a7d84f7d30f9995d7be5da1083e.js",
     "service-worker.js": "/jonathandrespardo/service-worker.js",
     "static/css/2.2730ce90.chunk.css.map": "/jonathandrespardo/static/css/2.2730ce90.chunk.css.map",
     "static/css/main.45ec9431.chunk.css.map": "/jonathandrespardo/static/css/main.45ec9431.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2730ce90.chunk.css",
     "static/js/2.5737decf.chunk.js",
     "static/css/main.45ec9431.chunk.css",
-    "static/js/main.9a612792.chunk.js"
+    "static/js/main.aeda8ea2.chunk.js"
   ]
 }
